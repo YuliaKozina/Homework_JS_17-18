@@ -1,0 +1,44 @@
+section {
+
+}
+
+#search {
+    margin: 20px;
+    background-color: #dfdfdf;
+}
+
+#searchField {
+    width: 500px;
+    height: 30px;
+    margin-left: 10px;
+    border: 1px solid #000;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+#searchButton {
+    margin: 10px;
+    width: 70px;
+    height: 35px;
+    border: 1px solid #000;
+    background-color: #327bff;
+    font-size: 16px;
+    color: #fff;
+}
+
+#searchingResults {
+    margin: 20px;
+}
+
+.result {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.title_link {
+    text-decoration: none;
+}
+
+.title {
+    font-size: 30px;
+}
